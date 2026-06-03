@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Agro2mic",
+  "description": "A premium, direct-to-consumer marketplace connecting local farmers with customers, featuring real-time synchronisation, route tracking, and AI freshness detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
